@@ -83,10 +83,6 @@ hdfs dfs -setfacl -R -m user:jy4018:r-x   /user/bh2514_nyu_edu/project
 - Single pre-year (2013) is a thin baseline; results are reported as multi-year averages or year-over-year curves rather than single-year comparisons.
 - 2020 COVID structural break overlaps the post period. The 2018–2022 window is published separately so a reader can judge policy effect vs lockdown effect.
 
-## Teammate's half
-
-Viola Yu (jy4018) — cross-city DiD on NHTSA FARS, 2005–2024, ~690k fatal crash records: <https://github.com/REPLACE_WITH_VIOLA_REPO>
-
 ## Course
 
 NYU Tandon — Realtime and Big Data Analytics — Spring 2026.
