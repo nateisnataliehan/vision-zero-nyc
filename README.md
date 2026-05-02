@@ -43,7 +43,11 @@ mechanism-level detail that a single DiD coefficient can't.
 │   └── natalie/
 │       ├── CountRecs.scala           (raw NYC collisions profiling)
 │       └── FirstCode.scala           (cleaned NYC stats + derived columns)
-└── screenshots/                      (evidence every step ran)
+├── screenshots/                      (evidence every step ran)
+└── animation/
+    ├── make_animation.py               matplotlib FuncAnimation source
+    ├── vision_zero.gif
+    └── vision_zero.mp4
 ```
 
 ## Data Locations (HDFS)
