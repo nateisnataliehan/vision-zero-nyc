@@ -6,7 +6,6 @@ I analyzed roughly 2 million NYC Motor Vehicle Collision records on NYU Dataproc
 
 ## Medium write-up
 
-Public first-person narrative of the project:
 <[https://medium.com/@bh2514](https://medium.com/@bh2514/did-vision-zero-actually-save-lives-what-i-found-in-2-million-nyc-crash-records-1fb3a2f3f89c)>
 
 ## Animation
